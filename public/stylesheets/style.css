@@ -1,0 +1,28 @@
+body,html {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  min-height: 100%;
+}
+
+a {
+  color: #00B7FF;
+  text-decoration:none;
+}
+nav{
+  
+}
+a:hover{
+  color:#00B7FF
+  text-decoration:none;
+}
+main .container{
+  margin-top: 5em;
+}
+footer{
+  height:50px;
+  background-color:#d3d3d3;
+}
+main {
+ min-height: calc(100vh - 70px);}
+#profile-image{
+  height: 200px;
+}
